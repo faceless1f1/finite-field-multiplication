@@ -1,17 +1,17 @@
 # 2^n Galois Field Multiplication Calculator
 
-### Usage
+## Usage
 - **A:** the first input to calculator
 - **B:** the second input to calculator
 - **Polynomial:** the irreducible polynomial of the field
 - **Degree:** the degree of the field
 
-### Features
+## Features
 - Automatically reduce input elements to canonical field elements
 - Solve Galois Field Multiplication iteratively
 - Shows full output so the user can follow along
 
-### Examples
+## Example Output
 ```yaml
 A (in decimal): 24
 B (in decimal): 64
