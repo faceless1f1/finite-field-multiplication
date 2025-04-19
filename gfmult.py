@@ -60,7 +60,7 @@ def gf_reduction(num, polynomial, n):
     return num
 
 
-def gf_multiply(a, b, polynomial, n=4):
+def gf_multiply(a, b, polynomial, n):
     """
     Multiplies two elements in GF(2^n) using the shift-and-add (XOR) method.
     Assumes a and b are already reduced (canonical).
